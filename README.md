@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sina Berk
-🔭 I’m currently working on Bioinformatics specialized in Metagenomics and Metabolomics.
-🌱 I’m currently learning Algorithms for Bioinformatics.
-👯 I’m looking to collaborate on research about Metabolomics Algorithms.
+🔭 I’m currently working on Bioinformatics specialized in Metagenomics and Metabolomics.\
+🌱 I’m currently learning Algorithms for Bioinformatics.\
+👯 I’m looking to collaborate on research about Metabolomics Algorithms.\
 <!--
 **SinaBerkGolech/SinaBerkGolech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
